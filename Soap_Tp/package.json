@@ -1,0 +1,15 @@
+{
+  "name": "atl_service_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "postgres": "^3.4.5",
+    "soap": "^1.1.8"
+  }
+}
